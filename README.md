@@ -1,4 +1,3 @@
-# Cybersecurity Portfolio Project
 
 # Cybersecurity-Internal-Audit-
 A hands-on cybersecurity project completed as part of the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/).  
